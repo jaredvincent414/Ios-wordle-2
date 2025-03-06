@@ -25,7 +25,15 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<div style="position: relative; padding-bottom: 213.01775147928996%; height: 0;"><iframe src="https://www.loom.com/embed/b00686e542cd411590a5ea6acb5b1811?sid=3d7f3c11-8804-48d9-a85e-70f716893850" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/b00686e542cd411590a5ea6acb5b1811">
+      <p>Simulator - iPhone 16 Pro - 6 March 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/b00686e542cd411590a5ea6acb5b1811">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b00686e542cd411590a5ea6acb5b1811-d0d5882a50262c6c-full-play.gif">
+    </a>
+  </div>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
