@@ -2,9 +2,9 @@
 
 Submitted by: **Vincent jared**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an app that ... [ is an app that allows users to play a simplified version of Wordle. Users input guesses using the keyboard on the screen and the app provides feedback on the correct and incorrect letters.] 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
